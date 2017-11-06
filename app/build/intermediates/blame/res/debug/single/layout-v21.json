@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/fmanager/workspace/project/Screen/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/fmanager/.android/build-cache/d759ac5015c447e377dff73fffbd944cc95c701f/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/fmanager/workspace/project/Screen/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/fmanager/.android/build-cache/d759ac5015c447e377dff73fffbd944cc95c701f/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/fmanager/workspace/project/Screen/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/fmanager/.android/build-cache/d759ac5015c447e377dff73fffbd944cc95c701f/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/fmanager/workspace/project/Screen/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/fmanager/.android/build-cache/d759ac5015c447e377dff73fffbd944cc95c701f/output/res/layout-v21/notification_action.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/fmanager/workspace/project/Screen/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/fmanager/.android/build-cache/d759ac5015c447e377dff73fffbd944cc95c701f/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/fmanager/workspace/project/Screen/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/fmanager/.android/build-cache/d759ac5015c447e377dff73fffbd944cc95c701f/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

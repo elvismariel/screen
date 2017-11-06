@@ -1,0 +1,127 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml
+		INJECTED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml
+		INJECTED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml
+		INJECTED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.GET_TASKS
+ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:6:22-65
+application
+ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:8:5-41:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/fmanager/.android/build-cache/d759ac5015c447e377dff73fffbd944cc95c701f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/fmanager/.android/build-cache/6943af5ba406226aec78537b98d66e731647c640/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/fmanager/.android/build-cache/faf19350f26c9311d40a4de136fc62b8a35d9338/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/fmanager/.android/build-cache/a30768ac28d584d05f26d1ddc91f715d053690b8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/fmanager/.android/build-cache/d2d53a25fe156be57847b772ffc1826c0be16fe9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/fmanager/.android/build-cache/c99792ab8c9907ef488d2826ed12c9ebe097a0b9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/fmanager/.android/build-cache/5124e108320568df14a81fe87b1f4fd7600dbd81/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/fmanager/.android/build-cache/690fd6a5b8541ae2adb73e7eb45432bf162fae4f/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/fmanager/.android/build-cache/d13f1f5db4d49e467fe8aeb458a0ee4d46790c9b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/fmanager/.android/build-cache/7bd6fcc0229fabba28b43f26c870854e5d88eb25/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:14:9-40
+activity#br.com.mariel.screen.MainActivity
+ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:16:9-23:20
+	android:label
+		ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:17:13-45
+	android:name
+		ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:21:27-74
+service#br.com.mariel.screen.ScreenServiceStart
+ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:25:9-34:19
+	android:label
+		ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:28:13-41
+	android:exported
+		ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:26:13-47
+intent-filter#SCREEN_SERVICE_START+android.intent.category.DEFAULT
+ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:29:13-33:29
+category#android.intent.category.DEFAULT
+ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:30:17-76
+	android:name
+		ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:30:27-73
+action#SCREEN_SERVICE_START
+ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:32:17-63
+	android:name
+		ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:32:25-60
+receiver#br.com.mariel.screen.BroadcastTest
+ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:36:9-40:20
+	android:label
+		ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:36:49-81
+	android:name
+		ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:36:19-48
+intent-filter#android.intent.action.USER_PRESENT
+ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:37:13-39:29
+action#android.intent.action.USER_PRESENT
+ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml:38:25-74
+uses-sdk
+INJECTED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/fmanager/.android/build-cache/d759ac5015c447e377dff73fffbd944cc95c701f/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/fmanager/.android/build-cache/6943af5ba406226aec78537b98d66e731647c640/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/fmanager/.android/build-cache/faf19350f26c9311d40a4de136fc62b8a35d9338/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/fmanager/.android/build-cache/a30768ac28d584d05f26d1ddc91f715d053690b8/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/fmanager/.android/build-cache/d2d53a25fe156be57847b772ffc1826c0be16fe9/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/fmanager/.android/build-cache/c99792ab8c9907ef488d2826ed12c9ebe097a0b9/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/fmanager/.android/build-cache/5124e108320568df14a81fe87b1f4fd7600dbd81/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/fmanager/.android/build-cache/690fd6a5b8541ae2adb73e7eb45432bf162fae4f/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/fmanager/.android/build-cache/d13f1f5db4d49e467fe8aeb458a0ee4d46790c9b/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/fmanager/.android/build-cache/7bd6fcc0229fabba28b43f26c870854e5d88eb25/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/fmanager/.android/build-cache/d759ac5015c447e377dff73fffbd944cc95c701f/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml
+		INJECTED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml
+		INJECTED from /home/fmanager/workspace/project/Screen/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/fmanager/.android/build-cache/d759ac5015c447e377dff73fffbd944cc95c701f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/fmanager/.android/build-cache/6943af5ba406226aec78537b98d66e731647c640/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/fmanager/.android/build-cache/faf19350f26c9311d40a4de136fc62b8a35d9338/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/fmanager/.android/build-cache/a30768ac28d584d05f26d1ddc91f715d053690b8/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/fmanager/.android/build-cache/d2d53a25fe156be57847b772ffc1826c0be16fe9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/fmanager/.android/build-cache/c99792ab8c9907ef488d2826ed12c9ebe097a0b9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/fmanager/.android/build-cache/5124e108320568df14a81fe87b1f4fd7600dbd81/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/fmanager/.android/build-cache/690fd6a5b8541ae2adb73e7eb45432bf162fae4f/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/fmanager/.android/build-cache/d13f1f5db4d49e467fe8aeb458a0ee4d46790c9b/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/fmanager/.android/build-cache/d759ac5015c447e377dff73fffbd944cc95c701f/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/fmanager/.android/build-cache/d759ac5015c447e377dff73fffbd944cc95c701f/output/AndroidManifest.xml:26:9-47

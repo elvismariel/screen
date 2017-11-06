@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/fmanager/.android/build-cache/d759ac5015c447e377dff73fffbd944cc95c701f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/fmanager/workspace/project/Screen/app/build/intermediates/pre-dexed/debug/classes_4396043055d3f5ab4a119d3c0f63519ecbfcca09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fmanager/.android/build-cache/d13f1f5db4d49e467fe8aeb458a0ee4d46790c9b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/fmanager/workspace/project/Screen/app/build/intermediates/pre-dexed/debug/classes_6e6a4f952d765ffa5572c28c2cf110433dcbff8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fmanager/.android/build-cache/a30768ac28d584d05f26d1ddc91f715d053690b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/fmanager/workspace/project/Screen/app/build/intermediates/pre-dexed/debug/classes_ab903970a9a3af36151851af97957d6ba6982531.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fmanager/.android/build-cache/690fd6a5b8541ae2adb73e7eb45432bf162fae4f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/fmanager/workspace/project/Screen/app/build/intermediates/pre-dexed/debug/classes_812b9ace3d901802343acbe209bd44a7d36d7fec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fmanager/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/fmanager/workspace/project/Screen/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_9cb8055d08828ae1ef22a06e80cba37f8e3b9433.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fmanager/.android/build-cache/d2d53a25fe156be57847b772ffc1826c0be16fe9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/fmanager/workspace/project/Screen/app/build/intermediates/pre-dexed/debug/classes_8a66e38c71ef8b32a3a0bb231710edd3f264afd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fmanager/.android/build-cache/6943af5ba406226aec78537b98d66e731647c640/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/fmanager/workspace/project/Screen/app/build/intermediates/pre-dexed/debug/classes_2b823dbd52c37b977b27a6ffbba2a4e8d548c759.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fmanager/.android/build-cache/5124e108320568df14a81fe87b1f4fd7600dbd81/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/fmanager/workspace/project/Screen/app/build/intermediates/pre-dexed/debug/classes_56caf77b65afe849df7987300d8671929230d666.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fmanager/.android/build-cache/c99792ab8c9907ef488d2826ed12c9ebe097a0b9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/fmanager/workspace/project/Screen/app/build/intermediates/pre-dexed/debug/classes_87c6c188fb929cefbf3f24eff4646450c7abf83a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fmanager/.android/build-cache/faf19350f26c9311d40a4de136fc62b8a35d9338/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/fmanager/workspace/project/Screen/app/build/intermediates/pre-dexed/debug/classes_9ca9fd9c30cb8b84b342e12c775a6843f25fc0e0.jar" />
+    </item>
+
+</items>
